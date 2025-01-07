@@ -94,4 +94,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## Contact
 
-For any queries, please contact wasif4000.wn@mgmail.com
+For any queries, please contact wasif4000.wn@gmail.com
