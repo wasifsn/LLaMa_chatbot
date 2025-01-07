@@ -37,7 +37,7 @@ This project is an interactive AI assistant built using LangChain, Sentence Tran
 
 4. Run the program:
    ```bash
-   python main.py
+   python llama_new.py
    ```
 
 ## Usage
